@@ -15,9 +15,9 @@ I'm a passionate IT student currently pursuing a **BSc. CSIT** at **Himalaya Dar
 - **Phone:** [+977 9844644079](tel:+9779844644079)
 - **Location:** Barju-4, Sunsari
 
-## 🌱 Currently Learning
+<!-- ## 🌱 Currently Learning
 - PHP and
-- PHP Frameworks
+- PHP Frameworks -->
 
 ## 📜 Education
 - **BSc. CSIT** - Himalaya Darshan College, TU (5th Semester)

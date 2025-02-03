@@ -12,7 +12,7 @@ I'm a passionate IT student currently pursuing a **BSc. CSIT** at **Himalaya Dar
 
 ## 📫 Contact Me
 - **Email:** sharmarabin788@gmail.com
-- **Phone:** 9844644079
+- **Phone:** [+977 9844644079](tel:+9779844644079)
 - **Location:** Barju-4, Sunsari
 
 ## 🌱 Currently Learning

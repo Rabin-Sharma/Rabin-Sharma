@@ -16,8 +16,8 @@ I'm a passionate IT student currently pursuing a **BSc. CSIT** at **Himalaya Dar
 - **Location:** Barju-4, Sunsari
 
 ## 🌱 Currently Learning
-- JavaScript (Advanced)
-- Web Development Frameworks
+- PHP and
+- PHP Frameworks
 
 ## 📜 Education
 - **BSc. CSIT** - Himalaya Darshan College, TU (5th Semester)

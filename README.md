@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Rabin-Sharma
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning CSIT
-- 💞️ I’m looking to collaborate on Web
-- 📫 How to reach me ...
+# Hi there, I'm Rabin Kumar Sharma! 👋
 
-<!---
-Rabin-Sharma/Rabin-Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate IT student currently pursuing a **BSc. CSIT** at **Himalaya Darshan College**. I enjoy learning new technologies and building projects that solve real-world problems.
+
+## 🔧 Skills
+- **Programming Languages:** C, C++, HTML, CSS, JavaScript (Basic), PHP, MySQL
+- **Other Skills:** Teamwork, Quick Learning, Problem-Solving
+
+## 📂 Projects
+- **Thread Application**: A web-based platform where users can log in, post threads, and reply to others.
+
+## 📫 Contact Me
+- **Email:** sharmarabin788@gmail.com
+- **Phone:** 9844644079
+- **Location:** Barju-4, Sunsari
+
+## 🌱 Currently Learning
+- JavaScript (Advanced)
+- Web Development Frameworks
+
+## 📜 Education
+- **BSc. CSIT** - Himalaya Darshan College, TU (5th Semester)
+- **10+2 in Electrical Engineering** - Shree Ramsita Secondary School
+- **SEE** - Shree Ramsita Secondary School
+
+Thanks for visiting my profile! 😊

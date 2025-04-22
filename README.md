@@ -4,7 +4,7 @@
 I'm a passionate IT student currently pursuing a **BSc. CSIT** at **Himalaya Darshan College**. I enjoy learning new technologies and building projects that solve real-world problems.
 
 ## 🔧 Skills
-- **Programming Languages:** C, C++, HTML, CSS, JavaScript (Basic), PHP, MySQL
+- **Programming Languages:** C, C++, HTML, CSS, JavaScript (Basic), PHP, Laravel, MySQL
 - **Other Skills:** Teamwork, Quick Learning, Problem-Solving
 
 ## 📂 Projects

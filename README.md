@@ -20,7 +20,7 @@ I'm a passionate IT student currently pursuing a **BSc. CSIT** at **Himalaya Dar
 - Laravel
 
 ## 📜 Education
-- **BSc. CSIT** - Himalaya Darshan College, TU (5th Semester)
+- **BSc. CSIT** - Himalaya Darshan College, TU (6th Semester)
 - **10+2 in Electrical Engineering** - Shree Ramsita Secondary School
 - **SEE** - Shree Ramsita Secondary School
 
